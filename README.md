@@ -13,6 +13,12 @@ Using the expectations written inside the "feedreader.js" file (./jasmine/spec/f
 
 NOTE: The Jasmine version used in this project is the 2.2.
 
+**How to use**:
+
+- Open "index.html" in your browser to see tests' results
+- If you want to add new tests, you must modify the file "feedreader.js" (./jasmine/spec/feedreader.js")
+- Enjoy the work
+
 **Credits**:
 
 - Michele "*Dev_Mikko*" De Palma
